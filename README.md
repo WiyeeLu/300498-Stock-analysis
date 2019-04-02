@@ -9,3 +9,5 @@ Investment is risky and needs to be cautious.
 Data as of April 1, 19
 
 Indicates that there will be an upward trend in the future for 300498.
+
+今天让我们看一看效果如何
